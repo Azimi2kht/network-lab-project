@@ -1,6 +1,6 @@
 # Computer Networking Lab Project
 
-In this project I configured a given topology
+In this project I configured a given topology in Packet Tracer  8.2.2
 
 The topology consists of several parts:
 
