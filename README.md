@@ -11,7 +11,7 @@ The topology consists of several parts:
 ![Japan](./imgs/japan.png)
 
 ## Russia
-![Russia](./imgs/america.png)
+![Russia](./imgs/russia.png)
 
 ## America
 ![America](./imgs/america.png)
