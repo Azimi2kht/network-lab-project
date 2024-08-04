@@ -6,7 +6,7 @@ The topology consists of several parts:
 
 ## University and its Departments
 - Different departments are concidered VLANs. then the connectivity between the VLANs is ensured
-- RIP protocol used between the routers
+- RIP protocol is used between the routers
 ![University](./imgs/university.png)
 
 ## Japan
@@ -15,7 +15,7 @@ The topology consists of several parts:
 ![Japan](./imgs/japan.png)
 
 ## Russia
-- Just like university departments, connected VLANs
+- Just like university departments, VLANs are connected
 ![Russia](./imgs/russia.png)
 
 ## America
